@@ -1,4 +1,6 @@
 # Optical-Flow
 Tracking of an object in an image using opencv
 
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+original point (x,y)
+new pont (x+u,y+v)
+theta;tan^-1 & (y/x)
