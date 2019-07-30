@@ -1,6 +1,11 @@
 # Optical-Flow
 Tracking of an object in an image using opencv
 
-original point (x,y)
-new point (x+u,y+v)
-&theta;tan<pow>-1 (y<over>x)
+## original point the frame 
+  ```
+     (x,y)
+  ```
+## new point on the frame 
+  ```
+     (x+u,y+v)
+  ```
