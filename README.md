@@ -1,5 +1,5 @@
 # Optical-Flow
-Tracking of an object in an image frame by frame using Brightness Constancy Assumption
+Tracking of an object in an image frame by frame
 
 ## original point on the frame 
   ```
@@ -17,3 +17,7 @@ Tracking of an object in an image frame by frame using Brightness Constancy Assu
 ## Next finding the magnitude
 
 ![alt text](https://github.com/DanielsKraus/Optical-Flow/blob/master/images/finding_magnitude.PNG)
+
+## Brightness Constancy Assumption
+
+![alt text](https://github.com/DanielsKraus/Optical-Flow/blob/master/images/brightness_constancy_assumption.PNG)
