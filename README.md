@@ -1,5 +1,5 @@
 # Optical-Flow
-Tracking of an object in an image using opencv
+Tracking of an object in an image frame by frame using Brightness Constancy Assumption
 
 ## original point on the frame 
   ```
