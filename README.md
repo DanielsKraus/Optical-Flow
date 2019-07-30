@@ -12,8 +12,8 @@ Tracking of an object in an image using opencv
 
 ## Finding theta 
 Finding the direction at which the object in the frame moves
-![alt text](https://raw.githubusercontent.com/DanielsKraus/Optical-Flow/branch/images/finding_theta.png)
+![alt text](https://raw.githubusercontent.com/DanielsKraus/Optical-Flow/branch/images/finding_theta.PNG)
 
 ## Next finding the magnitude
 
-![alt text](https://raw.githubusercontent.com/DanielsKraus/Optical-Flow/branch/images/finding_magnitude.png)
+![alt text](https://raw.githubusercontent.com/DanielsKraus/Optical-Flow/branch/images/finding_magnitude.PNG)
